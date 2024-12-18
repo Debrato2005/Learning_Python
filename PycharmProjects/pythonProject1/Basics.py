@@ -114,10 +114,12 @@ slice1=number[1:4]
 slice2=number[:3]
 slice3=number[::2]
 slice4=number[2:]
+slice5=number[::-1]
 print(slice1)
 print(slice2)
 print(slice3)
 print(slice4)
+print(slice5)
 print()
 
 str1="Hello"
